@@ -12,3 +12,10 @@ The .ipynb Jupyter Notebook simply contains the code used to create the subset f
 
 
 This compiled dataset should offer relatively easy ways to analyze health issues and their causes in North Carolina.  
+
+
+
+# Data Visualization
+This scatterplot shows the correlation between average income in a county and the number of premature deaths in the county. This was created using the compiled version of the 2014-2015 health data.
+
+![Scatterplot]()
