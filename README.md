@@ -1,7 +1,7 @@
 # 105-Unit3
 This repository contains datasets and a Jupyter Notebook used for an english project.
 
-Within the Data folder there are two datasets and a visualization of the data.
+Within the [Data](https://github.com/GarrettTH1/105-Unit3/tree/main/Data) folder there are two datasets and a visualization of the data.
 
 The 2014-2015 County Public Health dataset was provided for the assignment and contains a wealth of data about a number of public health factors from counties all across the country.
 
