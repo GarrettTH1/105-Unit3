@@ -1,5 +1,5 @@
 # 105-Unit3
-This repository contains datasets and a Jupyter Notebook used for an english project.
+This repository contains datasets, a visualization and a Jupyter Notebook used for an english project.
 
 ## The Data
 
