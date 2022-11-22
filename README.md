@@ -12,7 +12,7 @@ The [second dataset](https://github.com/GarrettTH1/105-Unit3/blob/main/Data/coun
 1. The dataset was cut to include only data from North Carolina
 2. The around 60 columns of data were reduced to around 15 columns. Mostly related to measures of mental and physical health, insurance, income, and exercise.
 
-The [.ipynb Jupyter Notebook](https://github.com/GarrettTH1/105-Unit3/blob/main/Compiling.ipynb) contains the code used to create the subset from the original dataset and instructions to carry out the same or similar subsetting.
+The [.ipynb Jupyter Notebook](https://github.com/GarrettTH1/105-Unit3/blob/main/Compiling.ipynb) contains the code used to create the subset from the original dataset and instructions to carry out the same or similar subsetting. The notebook can be previewed here or downloaded and opened in Jupyter Lab through Anaconda. [Anaconda Install](https://www.anaconda.com/products/distribution)
 
 
 ## The Subset
